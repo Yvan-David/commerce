@@ -16,6 +16,7 @@
     "test": "./src"
   },
   "devDependencies": {
+    "@types/assert": "^1.5.10",
     "@types/chai": "^4.3.14",
     "@types/mocha": "latest",
     "assert": "^2.0.0",
